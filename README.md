@@ -14,4 +14,3 @@ Bug fix #2 - 5/6/24
 
 Bug fix 5/7/24
 
-Complete Task 5/29/24
