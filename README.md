@@ -7,3 +7,5 @@ Fixed Vehicle Noise Level Bug
 Fixed Charging Time Bug
 
 Edit
+
+Fix security issue
