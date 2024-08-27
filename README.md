@@ -9,3 +9,5 @@ Fixed Charging Time Bug
 Edit
 
 Fix security issue
+
+Fix Airbag Issue
